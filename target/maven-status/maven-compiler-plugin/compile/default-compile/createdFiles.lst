@@ -1,0 +1,4 @@
+com\ToolsWebsiteEcommerce\Pages\userPage.class
+com\ToolsWebsiteEcommerce\Locators\register_locators.class
+com\ToolsWebsiteEcommerce\Pages\registerPage.class
+com\ToolsWebsiteEcommerce\Base.class

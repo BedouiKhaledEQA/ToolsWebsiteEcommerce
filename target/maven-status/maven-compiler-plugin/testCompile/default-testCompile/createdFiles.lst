@@ -1,0 +1,3 @@
+steps\Hooks.class
+runner\TestRunner.class
+steps\registerSteps.class
